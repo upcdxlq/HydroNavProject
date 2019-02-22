@@ -1,0 +1,23 @@
+﻿生成启动时间为 2019/1/30 9:24:36。
+     1>项目“F:\LongQiang\SVNRepositories\gpsssensor\XTJC2016\HydroNav6.0\HuaceHydroNav\branch\develop\Source\TestOldDecryption\TestOldDecryption.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\TestOldDecryption.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Debug\TestOldDecryption.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         E:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+       Link:
+         E:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\LongQiang\SVNRepositories\gpsssensor\XTJC2016\HydroNav6.0\HuaceHydroNav\branch\develop\Source\TestOldDecryption\CHC.Bin\Debug\TestOldDecryption.exe" /NOLOGO /LIBPATH:..\CHC.Bin\Debug kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\TestOldDecryption.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\LongQiang\SVNRepositories\gpsssensor\XTJC2016\HydroNav6.0\HuaceHydroNav\branch\develop\Source\TestOldDecryption\CHC.Bin\Debug\TestOldDecryption.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\LongQiang\SVNRepositories\gpsssensor\XTJC2016\HydroNav6.0\HuaceHydroNav\branch\develop\Source\TestOldDecryption\CHC.Bin\Debug\TestOldDecryption.lib" /MACHINE:X86 Debug\test.obj
+         F:\LongQiang\SVNRepositories\gpsssensor\XTJC2016\HydroNav6.0\HuaceHydroNav\branch\develop\Source\TestOldDecryption\CHC.Bin\Debug\OldDecryption.lib
+         TestOldDecryption.vcxproj -> F:\LongQiang\SVNRepositories\gpsssensor\XTJC2016\HydroNav6.0\HuaceHydroNav\branch\develop\Source\TestOldDecryption\CHC.Bin\Debug\TestOldDecryption.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\LongQiang\SVNRepositories\gpsssensor\XTJC2016\HydroNav6.0\HuaceHydroNav\branch\develop\Source\TestOldDecryption\CHC.Bin\Debug\TestOldDecryption.exe;#1" /manifest Debug\TestOldDecryption.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\TestOldDecryption.unsuccessfulbuild”。
+         正在对“Debug\TestOldDecryption.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\LongQiang\SVNRepositories\gpsssensor\XTJC2016\HydroNav6.0\HuaceHydroNav\branch\develop\Source\TestOldDecryption\TestOldDecryption.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.67

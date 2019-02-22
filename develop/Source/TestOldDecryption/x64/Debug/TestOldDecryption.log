@@ -1,0 +1,19 @@
+﻿生成启动时间为 2019/1/29 14:46:46。
+     1>项目“F:\LongQiang\SVNRepositories\gpsssensor\XTJC2016\HydroNav6.0\HuaceHydroNav\branch\develop\Source\TestOldDecryption\TestOldDecryption.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“x64\Debug\TestOldDecryption.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         E:\Program Files\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TC /errorReport:prompt test.c
+         test.c
+       Link:
+         E:\Program Files\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"F:\LongQiang\SVNRepositories\gpsssensor\XTJC2016\HydroNav6.0\HuaceHydroNav\branch\develop\Source\TestOldDecryption\x64\Debug\TestOldDecryption.exe" /NOLOGO /LIBPATH:..\Debug kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\TestOldDecryption.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\LongQiang\SVNRepositories\gpsssensor\XTJC2016\HydroNav6.0\HuaceHydroNav\branch\develop\Source\TestOldDecryption\x64\Debug\TestOldDecryption.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\LongQiang\SVNRepositories\gpsssensor\XTJC2016\HydroNav6.0\HuaceHydroNav\branch\develop\Source\TestOldDecryption\x64\Debug\TestOldDecryption.lib" /MACHINE:X64 x64\Debug\test.obj
+         F:\LongQiang\SVNRepositories\gpsssensor\XTJC2016\HydroNav6.0\HuaceHydroNav\branch\develop\Source\TestOldDecryption\CHC.Bin\Debug\OldDecryption.lib
+     1>test.obj : error LNK2019: 无法解析的外部符号 ReadDogId，该符号在函数 main 中被引用
+     1>test.obj : error LNK2019: 无法解析的外部符号 ReadDogReg，该符号在函数 main 中被引用
+     1>test.obj : error LNK2019: 无法解析的外部符号 CheckDog，该符号在函数 main 中被引用
+     1>F:\LongQiang\SVNRepositories\gpsssensor\XTJC2016\HydroNav6.0\HuaceHydroNav\branch\develop\Source\TestOldDecryption\x64\Debug\TestOldDecryption.exe : fatal error LNK1120: 3 个无法解析的外部命令
+     1>已完成生成项目“F:\LongQiang\SVNRepositories\gpsssensor\XTJC2016\HydroNav6.0\HuaceHydroNav\branch\develop\Source\TestOldDecryption\TestOldDecryption.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.40
